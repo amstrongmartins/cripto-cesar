@@ -1,0 +1,22 @@
+{
+  "name": "cripto-cesar",
+  "version": "1.0.0",
+  "description": "Desafio do programa de aceleração da CodeNation",
+  "main": "cripto-cesar.js",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "js-sha1": "^0.6.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "criptografia",
+    "cesar",
+    "cifra"
+  ],
+  "author": "Amstrong Martins",
+  "license": "ISC"
+}
